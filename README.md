@@ -1,6 +1,10 @@
 ### Hi there 👋
+Hello! This is a test from HackCamp.
+
 
 <!--
+Hello! This is a test from HackCamp. 
+
 **MelanieKent/MelanieKent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
